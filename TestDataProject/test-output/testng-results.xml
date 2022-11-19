@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="666" started-at="2022-11-19T17:44:11 IST" finished-at="2022-11-19T17:44:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="666" started-at="2022-11-19T17:44:11 IST" finished-at="2022-11-19T17:44:11 IST">
+      <class name="utilities.TestParametrization">
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:utilities.TestParametrization@369f73a2]" name="testData" duration-ms="11" started-at="2022-11-19T17:44:11 IST" data-provider="getData" finished-at="2022-11-19T17:44:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=JIU, RunMode=Y, customer=David}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:utilities.TestParametrization@369f73a2]" name="testData" duration-ms="2" started-at="2022-11-19T17:44:11 IST" data-provider="getData" finished-at="2022-11-19T17:44:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=HIK, RunMode=Y, customer=Ruyd}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:utilities.TestParametrization@369f73a2]" name="testData" duration-ms="1" started-at="2022-11-19T17:44:11 IST" data-provider="getData" finished-at="2022-11-19T17:44:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=KAO, RunMode=Y, customer=Midw}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:utilities.TestParametrization@369f73a2]" name="testData" duration-ms="1" started-at="2022-11-19T17:44:11 IST" data-provider="getData" finished-at="2022-11-19T17:44:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=SDSHDHDHHSKHDKK, RunMode=Y, customer=SDKHSD}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testData(java.util.Hashtable)[pri:0, instance:utilities.TestParametrization@369f73a2]" name="testData" duration-ms="2" started-at="2022-11-19T17:44:11 IST" data-provider="getData" finished-at="2022-11-19T17:44:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{currency=UUWEWEOW, RunMode=N, customer=SDSD}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+      </class> <!-- utilities.TestParametrization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
